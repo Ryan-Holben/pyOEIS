@@ -1,6 +1,6 @@
-# OEISpy
+# pyOEIS
 
-OEISpy is a Python module that can be used to programmatically accessing
+pyOEIS is a Python module that can be used to programmatically accessing
 The On-Line Encyclopedia of Integer Sequences®, which is located at www.oeis.org.
 
 ## Features
