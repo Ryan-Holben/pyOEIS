@@ -1,7 +1,7 @@
 # pyOEIS
 
 pyOEIS is a Python module that can be used to programmatically accessing
-The On-Line Encyclopedia of Integer Sequences®, which is located at www.oeis.org.
+The On-Line Encyclopedia of Integer Sequences®, which is located at www.oeis.org.  This project is independent of the OEIS Foundation.  Please support them at www.oeisf.org!
 
 ## Features
 1. OEIS search by sequence elements
