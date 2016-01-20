@@ -1,0 +1,40 @@
+# Greetings from The On-Line Encyclopedia of Integer Sequences! http://oeis.org/
+
+Search: id:a000109
+Showing 1-1 of 1
+
+%I A000109 M1469 N0580
+%S A000109 1,1,1,2,5,14,50,233,1249,7595,49566,339722,2406841,17490241,
+%T A000109 129664753,977526957,7475907149,57896349553,453382272049,
+%U A000109 3585853662949,28615703421545
+%N A000109 Number of simplicial polyhedra with n nodes; simple planar graphs with 3n-6 edges; maximal simple planar graphs; 3-connected planar triangulations; 3-connected triangulations of the sphere; 3-connected cubic planar graphs.
+%D A000109 J. Bokowski and P. Schuchert, Equifacetted 3-spheres as topes of nonpolytopal matroid polytopes. Discrete Comput. Geom. 13 (1995), no. 3-4, 347-361.
+%D A000109 R. Bowen and S. Fisk, Generation of triangulations of the sphere, Math. Comp., 21 (1967), 250-252.
+%D A000109 G. Brinkmann and Brendan McKay, in preparation.
+%D A000109 M. Deza, M. Dutour and P. W. Fowler, Zigzags, railroads and knots in fullerenes, J. Chem. Inf. Comput. Sci., 44 (2004), 1282-1293.
+%D A000109 M. B. Dillencourt, Polyhedra of small orders and their Hamiltonian properties. Tech. Rep. 92-91, Info. and Comp. Sci. Dept., Univ. Calif. Irvine, 1992.
+%D A000109 C. F. Earl and L. J. March, Architectural applications of graph theory, pp. 327-355 of R. J. Wilson and L. W. Beineke, editors, Applications of Graph Theory. Academic Press, NY, 1979.
+%D A000109 P. J. Federico, Enumeration of polyhedra: the number of 9-hedra, J. Combin. Theory, 7 (1969), 155-161.
+%D A000109 Fukuda, Komei; Miyata, Hiroyuki; Moriyama, Sonoko. Complete Enumeration of Small Realizable Oriented Matroids. Discrete Comput. Geom. 49 (2013), no. 2, 359--381. MR3017917. - From _N. J. A. Sloane_, Feb 16 2013
+%D A000109 B. Grünbaum, Convex Polytopes. Wiley, NY, 1967, p. 424.
+%D A000109 J. Lederberg, Hamilton circuits of convex trivalent polyhedra (up to 18 vertices), Am. Math. Monthly, 74 (1967), 522-527.
+%D A000109 Sciriha, I. and Fowler, P.W., Nonbonding Orbitals in Fullerenes: Nuts and Cores in Singular Polyhedral Graphs J. Chem. Inf. Model., 47, 5, 1763 - 1775, 2007.
+%D A000109 N. J. A. Sloane, A Handbook of Integer Sequences, Academic Press, 1973 (includes this sequence).
+%D A000109 N. J. A. Sloane and Simon Plouffe, The Encyclopedia of Integer Sequences, Academic Press, 1995 (includes this sequence).
+%H A000109 David Wasserman, <a href="/A000109/b000109.txt">Table of n, a(n) for n = 3..23</a>
+%H A000109 R. Bowen and S. Fisk, <a href="/A000103/a000103.pdf">Generation of triangulations of the sphere</a> [Annotated scanned copy]
+%H A000109 F. H. Lutz, <a href="http://arXiv.org/abs/math.CO/0506372">Triangulated manifolds with few vertices: Combinatorial Manifolds</a>
+%H A000109 B. D. McKay, <a href="http://cs.anu.edu.au/~bdm/plantri">Plantri</a>
+%H A000109 G. P. Michon, <a href="http://www.numericana.com/data/polyhedra.htm">Counting Polyhedra</a>
+%H A000109 Thom Sulanke, <a href="http://hep.physics.indiana.edu/~tsulanke/graphs/surftri/">Generating triangulations of surfaces (surftri)</a>, (also subpages).
+%H A000109 Eric Weisstein's World of Mathematics, <a href="http://mathworld.wolfram.com/CubicPolyhedralGraph.html">Cubic Polyhedral Graph</a>
+%H A000109 Eric Weisstein's World of Mathematics, <a href="http://mathworld.wolfram.com/SimplePolyhedron.html">Simple Polyhedron</a>
+%H A000109 Eric Weisstein's World of Mathematics, <a href="http://mathworld.wolfram.com/TriangulatedGraph.html">Triangulated Graph</a>
+%H A000109 <a href="/index/Cor#core">Index entries for "core" sequences</a>
+%Y A000109 Cf. A005964, A058378.
+%K A000109 nonn,nice,hard,more,core
+%O A000109 3,4
+%A A000109 _N. J. A. Sloane_
+%E A000109 Extended by _Brendan McKay_ and Gunnar Brinkmann (Gunnar.Brinkmann(AT)ugent.be) using their program "plantri", Dec 19 2000
+
+# Content is available under The OEIS End-User License Agreement: http://oeis.org/LICENSE
