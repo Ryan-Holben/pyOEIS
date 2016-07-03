@@ -11,7 +11,7 @@ The On-Line Encyclopedia of Integer Sequences®, which is located at www.oeis.or
 3. (_future_) Basic sequence manipulation and operators
 
 ### Example use case #1:
-A script which produces a sequence of integers.  OEISpy could then be used to automatically check if the given sequence matches any known in the database, allowing the user to identify the underlying pattern in their data or algorithm.
+A script which produces a sequence of integers.  pyOEIS could then be used to automatically check if the given sequence matches any known in the database, allowing the user to identify the underlying pattern in their data or algorithm.
 
 ### Example use case #2:
-A script can use OEISpy to abstract away accessing the website, and can directly interact with sequences as locally-stored generators.
+A script can use pyOEIS to abstract away accessing the website, and can directly interact with sequences as locally-stored generators.
